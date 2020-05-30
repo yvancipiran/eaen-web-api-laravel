@@ -11,14 +11,14 @@
 
 Laravel EAEN WEB API es un servicio que utiliza el framework laravel, y permite a los programadores Backend, expresar sus ideas de forma elegante. Esto en base a la ideología de realizar desarrollos con una experiencia agradable, y cuyo proceso creativo se disfrute al máximo (LARAVEL).
 
-## Aprendiendo a usar el Fraework EAEN WEB API | Laravel
+## Aprendiendo a usar el Framework EAEN WEB API | Laravel
 
 En primer lugar debemos hacer referencia a los documentos de trabajo y la literatura del framework LARAVEL, la cual se define extensamente en su [documentación](https://laravel.com/docs).
 
 
 ## Empresas que Respaldan el proyecto.
 
-Queremos dar las gracias a las empresas que han hecho posible el desarrollo de este framework a través de sus inversiones y cntribuciones. Si ustede  deses visitar sus sitios web, por favor revise los siguentes enlaces:
+Queremos dar las gracias a las empresas que han hecho posible el desarrollo de este framework a través de sus inversiones y contribuciones. Si usted  desea visitar sus sitios web, por favor haga click en los siguentes enlaces:
 
 - **[MPPEE](http://www.mppee.gob.ve/)**
 - **[CORPOELEC](http://www.corpoelec.gob.ve/)**
