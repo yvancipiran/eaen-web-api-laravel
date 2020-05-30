@@ -9,23 +9,12 @@
 
 ## Acerca de EAEN WEB API | Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Laravel EAEN WEb API es un servicio que utiliza el framework laravel, y permite a los programadores Backend, expresar sus ideas de forma elegante. Esto en base a la ideología de realizar desarrollos con una experiencia agradable, y cuyo proceso creativo se disfrute al máximo (LARAVEL).
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Aprendiendo a usar el Fraework EAEN WEB API | Laravel
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+En primer lugar debemos hacer referencia a los documentos de trabajo y la literatura del framework LARAVEL, la cual se define extensamente en su [documentación](https://laravel.com/docs).
 
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 ## Empresas que Respaldan el proyecto.
 
@@ -35,18 +24,18 @@ Queremos dar las gracias a las empresas que han hecho posible el desarrollo de e
 - **[CORPOELEC](http://www.corpoelec.gob.ve/)**
 - **[FUNDELEC](http://www.fundelec.gob.ve/)**
 
-## Contributing
+## Contribuciones
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Si desea contribuir con este framework, puede realizar todas tus sugerencias y mejoras vía GIT, o comunicarse con el área e Planificación - Equipo de Apoyo Estratégico (E.A.E.N) más cercano  [yvancipiran@yandex.com](mailto:yvancipiran@yandex.com).
 
-## Code of Conduct
+## Código de Conducta
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Este software mantiene apego a las clausulas que estan definidas en la [Licencia MIT](https://opensource.org/licenses/MIT).
 
-## Security Vulnerabilities
+## Seguridad y vulnerabilidades
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Si usted decubre alguna vulnerabilidad o falla en nuestro software, por favor envienos un email a Yván M. Cipirán N. [yvancipiran@yandex.com](mailto:yvancipiran@yandex.com). Todos los reportes de vulnerabilidades serán atendidos rápidamente en la medida de nuestras posibilidades.
 
-## License
+## Licencia de uso
 
 EAEN WEB API | LARAVEL es software open-sourced licenciado bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
